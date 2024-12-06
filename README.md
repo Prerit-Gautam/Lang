@@ -17,17 +17,27 @@ iii.) Code generation for JVM
 To use this compiler, clone this repository into your local machine and enjoy.
 <hr>
 Here is an example of a sample code:
+<br>
 int x = 5;
+<br>
 if x == 5 or x == 6:
+<br>
     x = 4;
+<br>
 else:
+<br>
     x = 3;
 
 <br>
 An Alternative code:
+<br>
 int x = 5;
+<br>
 if x == 5 || x == 6:
+<br>
     x = 4;
+<br>
 else:
+<br>
     x = 3;
 
