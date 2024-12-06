@@ -7,11 +7,14 @@ import java.nio.file.Path;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        // Uncomment the following lines to run your desired file or give input from the prompt
 //        if (args.length > 0) {
 //            runFile(args[0]);
 //        } else {
 //            runFromPrompt();
 //        }
+
+        // Make sure to comment this line, if you are uncommenting the above lines
         runFile("src/test.txt");
     }
 
@@ -36,8 +39,6 @@ public class Main {
     }
 
     private static void run(String input) {
-        System.out.println("Preparing to run");
         Lexer lexer=new Lexer(input);
-
     }
 }

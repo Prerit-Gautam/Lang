@@ -15,3 +15,19 @@ ii.) Syntax Analaysis or Parsing (Parser)
 iii.) Code generation for JVM 
 <br>
 To use this compiler, clone this repository into your local machine and enjoy.
+<hr>
+Here is an example of a sample code:
+int x = 5;
+if x == 5 or x == 6:
+    x = 4;
+else:
+    x = 3;
+
+<br>
+An Alternative code:
+int x = 5;
+if x == 5 || x == 6:
+    x = 4;
+else:
+    x = 3;
+

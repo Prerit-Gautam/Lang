@@ -109,6 +109,10 @@ public class Lexer {
                     pushToken(TokenType.SEMICOLON, null, null, line);
                     break;
 
+                case ':':
+                    pushToken(TokenType.COLON, null, null, line);
+                    break;
+
                 case '|':
                     if (check('|')) {
                         pushToken(TokenType.OR, null, null, line);
