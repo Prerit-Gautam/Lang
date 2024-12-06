@@ -4,7 +4,7 @@
 <hr>
 What is Lang?
 <hr>
-Lang is a dynamic high level programming language made by Prerit. This repository holds the code for the compiler for this language.
+Lang is a statically typed high level programming language made by Prerit. This repository holds the code for the compiler for this language.
 <br>
 <h2>Expected stages for the compiler</h2>
 <br>
