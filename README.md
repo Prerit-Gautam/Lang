@@ -22,12 +22,12 @@ int x = 5;
 <br>
 if x == 5 or x == 6:
 <br>
-    x = 4;
+&emsp; x = 4;
 <br>
 else:
 <br>
-    x = 3;
-
+&emsp; x = 3;
+<br>
 <br>
 An Alternative code:
 <br>
@@ -35,9 +35,9 @@ int x = 5;
 <br>
 if x == 5 || x == 6:
 <br>
-    x = 4;
+&emsp; x = 4;
 <br>
 else:
 <br>
-    x = 3;
+&emsp; x = 3;
 
