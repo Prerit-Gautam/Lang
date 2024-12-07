@@ -10,13 +10,13 @@
                                            
 
 <br>
-<h2> Author - Prerit Gautam</h2>
+<h2> 📚Author - Prerit Gautam</h2>
 <hr>
-What is Lang?
+What is Lang :question:
 <hr>
 Lang is a statically typed high level programming language made by Prerit. This repository holds the code for the compiler for this language.
 <br>
-<h2>Expected stages for the compiler</h2>
+<h2> :computer: Expected stages for the compiler </h2>
 <br>
 i.) Lexical Analaysis (Lexer)
 <br>
