@@ -24,9 +24,15 @@ ii.) Syntax Analaysis or Parsing (Parser)
 <br>
 iii.) Code generation for JVM 
 <br>
+<hr>
+<h2>Completed Stages</h2>
+<br>
+Lexical Analyser
+<br>
+<hr>
 To use this compiler, clone this repository into your local machine and enjoy.
 <hr>
-Here is an example of a sample code:
+Here is a sample code:
 <br>
 int x = 5;
 <br>
@@ -38,16 +44,5 @@ else:
 <br>
 &emsp; x = 3;
 <br>
-<br>
-An Alternative code:
-<br>
-int x = 5;
-<br>
-if x == 5 || x == 6:
-<br>
-&emsp; x = 4;
-<br>
-else:
-<br>
-&emsp; x = 3;
+
 
